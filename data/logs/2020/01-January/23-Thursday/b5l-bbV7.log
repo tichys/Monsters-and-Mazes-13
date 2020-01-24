@@ -1,0 +1,61 @@
+[2020-01-23 06:48:36.238] 
+ - 
+ - Starting up. (ID: b5l-bbV7) 00:48.36
+ - ---------------------
+[2020-01-23 06:48:36.243] [01:00:00] WORLD: 
+[2020-01-23 06:48:36.248] [01:00:00] WORLD: The server failed to establish a connection with the feedback database.
+[2020-01-23 06:48:36.250] [01:00:00] WORLD: 
+[2020-01-23 06:48:36.252] [01:00:00] WORLD: The server failed to establish a connection with the SQL database.
+[2020-01-23 06:48:36.255] [01:00:00] WORLD: 
+[2020-01-23 06:48:36.257] [01:00:00] MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[2020-01-23 06:48:36.265] [01:00:00] WORLD: 
+[2020-01-23 06:48:36.266] [01:00:00] MISC: Database connection failed. Reverting to the legacy ban system.
+[2020-01-23 06:48:36.293] [01:00:00] WORLD: 
+[2020-01-23 06:48:38.057] [01:00:00] DEBUG: Rebuilding Master Controller
+[2020-01-23 06:48:39.054] [01:00:00] WORLD: Initializing subsystems...
+[2020-01-23 06:48:39.056] [01:00:00] WORLD: Initialized Antags subsystem within 0 seconds!
+[2020-01-23 06:48:39.058] [01:00:00] WORLD: Initialized Space skybox subsystem within 0 seconds!
+[2020-01-23 06:48:39.100] [01:00:00] WORLD: Initialized Mapping subsystem within 0 seconds!
+[2020-01-23 06:48:40.637] [01:00:00] WORLD: Initialized 89211 atoms
+[2020-01-23 06:48:40.772] [01:00:00] WORLD: Late initialized 107 atoms
+[2020-01-23 06:48:40.774] [01:00:00] WORLD: Initialized Atoms subsystem within 1.6 seconds!
+[2020-01-23 06:48:40.780] [01:00:00] WORLD: Initialized Icon Updates subsystem within 0 seconds!
+[2020-01-23 06:48:40.782] [01:00:00] WORLD: Initializing atmos machinery
+[2020-01-23 06:48:40.784] [01:00:00] WORLD: Initializing pipe networks
+[2020-01-23 06:48:40.787] [01:00:00] WORLD: Initialized Machines subsystem within 0 seconds!
+[2020-01-23 06:48:40.789] [01:00:00] WORLD: Initialized Evacuation subsystem within 0 seconds!
+[2020-01-23 06:48:40.792] [01:00:00] WORLD: Initialized Event Manager subsystem within 0 seconds!
+[2020-01-23 06:48:40.795] [01:00:00] WORLD: Initialized Supply subsystem within 0 seconds!
+[2020-01-23 06:48:40.798] [01:00:00] WORLD: Initialized tgui subsystem within 0 seconds!
+[2020-01-23 06:48:40.800] [01:00:00] WORLD: Processing Geometry...
+[2020-01-23 06:48:44.103] [01:00:00] WORLD: Total Simulated Turfs: 69846
+ - Total Zones: 75
+ - Total Edges: 9
+ - Total Active Edges: None
+ - Total Unsimulated Turfs: 10154
+ - 
+[2020-01-23 06:48:44.107] [01:00:00] WORLD: Geometry processing completed in 3.4 seconds!
+[2020-01-23 06:48:44.111] [01:00:00] WORLD: Settling air...
+[2020-01-23 06:48:44.141] [01:00:00] WORLD: Air settling completed in 0 seconds!
+[2020-01-23 06:48:44.143] [01:00:00] WORLD: Initialized Air subsystem within 3.4 seconds!
+[2020-01-23 06:48:44.149] [01:00:00] WORLD: Initialized Alarm subsystem within 0 seconds!
+[2020-01-23 06:48:44.153] [01:00:00] WORLD: Initialized Shuttle subsystem within 0 seconds!
+[2020-01-23 06:48:46.632] [01:00:00] WORLD: Initialized Lighting subsystem within 2.5 seconds!
+[2020-01-23 06:48:46.635] [01:00:00] WORLD: Initialized Open Space subsystem within 0 seconds!
+[2020-01-23 06:48:46.638] [01:00:00] WORLD: Initializing overmap events
+[2020-01-23 06:48:46.641] [01:00:00] WORLD: Initializing lathe recipes
+[2020-01-23 06:48:46.691] [01:00:00] WORLD: Initializations complete
+[2020-01-23 06:48:46.693] [01:00:00] WORLD: Initialized Legacy subsystem within 0 seconds!
+[2020-01-23 06:48:46.698] [01:00:00] WORLD: Initializations complete within 7.6 seconds!
+[2020-01-23 06:48:46.702] [01:00:00] WORLD: MC: Runlevel changed from NULL to 1
+[2020-01-23 06:48:46.727] [01:00:00] WORLD: Master starting processing
+[2020-01-23 06:49:07.597] [01:00:00] WORLD: 
+[2020-01-23 06:49:07.657] [01:00:00] WORLD: 
+[2020-01-23 06:50:05.788] [01:00:00] DEBUG: The server has called a gamemode vote
+[2020-01-23 06:53:28.043] [01:00:00] WORLD: MC: Runlevel changed from 1 to 2
+[2020-01-23 06:53:28.047] [01:00:00] WORLD: MC: Runlevel changed from 2 to 4
+[2020-01-23 06:53:31.009] [01:00:00] DEBUG: Next event of severity Mundane in 16.932 minutes.
+[2020-01-23 06:53:31.009] [01:00:00] DEBUG: Next event of severity Moderate in 45.808 minutes.
+[2020-01-23 06:53:31.009] [01:00:00] DEBUG: Next event of severity Major in 82.165 minutes.
+[2020-01-23 06:53:39.938] [01:00:09] DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
+[2020-01-23 06:59:08.461] [01:05:36] DEBUG: Moved - Arrivals Announcement Computer was deleted while still listening to the shortwave radio.
